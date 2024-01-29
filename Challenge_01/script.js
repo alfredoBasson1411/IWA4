@@ -5,7 +5,6 @@ let count = 0;
 
 /**added equality operator
  * removed "let" keyword at "count" and added "+=" operator
- * 
 */
 if (date === 2050) {
   console.log("January", 'New Year’s Day');
